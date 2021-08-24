@@ -1,4 +1,3 @@
 Almost all sequences carry the N501Y mutation.
-
-add some new text here
-
+But P681H is also very common.
+And of course it contains D614G.
